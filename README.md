@@ -100,12 +100,6 @@
   <img alt="GitHub Contribution Snake"
     src="https://raw.githubusercontent.com/rethulkc/rethulkc/output/github-contribution-grid-snake.svg">
 </picture>
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 
 <div align="center">
 
